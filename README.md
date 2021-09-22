@@ -1,2 +1,2 @@
 # LearningGitHub
-For Learning GitHub creating Repo
+For Learning GitHub creating Repository
